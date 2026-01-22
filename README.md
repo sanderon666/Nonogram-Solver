@@ -1,4 +1,4 @@
-#Nonogram Solver - Python SAT Solver
+Nonogram Solver - Python SAT Solver
 Um resolvedor de nonogram com interface gráfica
 https://img.shields.io/badge/python-3.8%252B-blue
 https://img.shields.io/badge/license-MIT-green
