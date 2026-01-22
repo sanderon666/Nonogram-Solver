@@ -154,8 +154,8 @@ SETTINGS = {
         },
         "color": "#4A4A8C"
     },
-        "Hackerman": {
-        "name": "Hackerman",
+        "Toad": {
+        "name": "Toad",
         "size": {"row": 20, "column": 20},
         "rules": {
             "rows": {
